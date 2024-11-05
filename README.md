@@ -18,7 +18,7 @@ Each directory includes the following:
     -Outputs accuracy, precision, recall, and F1 score at the end of training.  
 
 3.Test Notebook: 
-  A Kaggle notebook for model testing and further predictions.
-    -Load the trained model and specify its path.
-    -Specify the path to a dataset if you’re predicting on a large batch of texts.
-    -For single text predictions, paste the text into the specified section at the end of the notebook.
+  A Kaggle notebook for model testing and further predictions.  
+    -Load the trained model and specify its path.  
+    -Specify the path to a dataset if you’re predicting on a large batch of texts.  
+    -For single text predictions, paste the text into the specified section at the end of the notebook.  
