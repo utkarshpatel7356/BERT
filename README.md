@@ -12,10 +12,10 @@ Each directory includes the following:
   Contains visualizations of model performance, specifically pie charts of class distributions.
 
 2.Train Notebook:
-  A Kaggle notebook for model fine-tuning on a dataset.
-    -Define paths for training and testing datasets.
-    -Uses the test dataset as the validation set.
-    -Outputs accuracy, precision, recall, and F1 score at the end of training.
+  A Kaggle notebook for model fine-tuning on a dataset.  
+    -Define paths for training and testing datasets.  
+    -Uses the test dataset as the validation set.  
+    -Outputs accuracy, precision, recall, and F1 score at the end of training.  
 
 3.Test Notebook: 
   A Kaggle notebook for model testing and further predictions.
